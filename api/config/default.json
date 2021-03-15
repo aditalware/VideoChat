@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb://onboard:onboard@onboard-shard-00-00.n4f0d.mongodb.net:27017,onboard-shard-00-01.n4f0d.mongodb.net:27017,onboard-shard-00-02.n4f0d.mongodb.net:27017/test?replicaSet=atlas-10kwwl-shard-0&ssl=true&authSource=admin"
+
+    
+  }
